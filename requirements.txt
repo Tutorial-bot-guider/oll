@@ -1,4 +1,4 @@
 requests
 websockets
 phonenumbers
-aiohttp
+discord
