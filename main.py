@@ -15,7 +15,7 @@ BOT_OWNER_ROLE = 'Runner' # change to what you need
 
  
 oot_channel_id_list = [
-    
+   "640767742378770452",#uk loco
 ]
 
 
